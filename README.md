@@ -1,4 +1,5 @@
 Gmail Validation Program
+
   This Java program checks the format of a Gmail address entered by the user. It ensures that the email address follows a specific format where it contains only lowercase letters and numbers before the "@gmail.com" domain.
 
 Table of Contents
