@@ -43,7 +43,7 @@ class Gmail
             }
             else
             {
-                System.out.println("Entered mail format is correct.");
+                System.out.println("Entered mail format is Incorrect.");
                 System.out.println("Use only small letters and numbers and '@gmail.com' at very last.....");
                 System.out.println("Try again...");
                 b = true;
